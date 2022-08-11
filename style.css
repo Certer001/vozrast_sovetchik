@@ -1,0 +1,17 @@
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+h1.text{
+    text-align: center;
+}
+form.otpravit{
+    margin-left: 321px;
+}
+input{
+    margin-top: 10px;
+    margin-left: 70px;
+}
+textarea{
+    resize: none;
+}   
