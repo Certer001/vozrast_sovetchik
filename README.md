@@ -1,2 +1,2 @@
 # vozrast_sovetchik
-очень доброжелательная программа
+тестить тут http://gametheway.unaux.com/learning2/
